@@ -1,0 +1,12 @@
+{
+  "players" : [
+    {
+      "id": 0,
+      "name": "Jonny Clayton"
+    },
+    {
+      "id": 1,
+      "name": "Peter Wright"
+    }
+  ]
+}
