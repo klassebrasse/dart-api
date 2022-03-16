@@ -2,11 +2,18 @@
   "players" : [
     {
       "id": 0,
-      "name": "Jonny Clayton"
+      "name": "Jonny Clayton",
+      "nickname": "The Ferret"
     },
     {
       "id": 1,
-      "name": "Peter Wright"
+      "name": "Peter Wright",
+      "nickname": "Snakebite"
+    },
+    {
+      "id": 2,
+      "name": "Luke Humphries",
+      "nickname": "Cool Hand Luke"
     }
   ]
 }
